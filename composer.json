@@ -17,5 +17,8 @@
     "require": {
         "symfony/dotenv": "7.2.x-dev",
         "symfony/var-dumper": "4.4.41"
+    },
+    "require-dev": {
+        "roave/security-advisories": "dev-latest"
     }
 }
