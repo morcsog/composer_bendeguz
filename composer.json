@@ -15,6 +15,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "symfony/dotenv": "7.2.x-dev"
+        "symfony/dotenv": "7.2.x-dev",
+        "symfony/var-dumper": "4.4.41"
     }
 }
